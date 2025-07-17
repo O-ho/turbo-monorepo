@@ -19,7 +19,7 @@ const ThemeImage = (props: Props) => {
 export default function Home() {
   return (
       <div>
-        홈 페이지 ( 단일 배포 테스트용 )
+        홈 페이지
       </div>
   );
 }
