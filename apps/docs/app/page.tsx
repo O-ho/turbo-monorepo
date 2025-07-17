@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-docs home docs만
+docs home docs
     </div>
   );
 }
