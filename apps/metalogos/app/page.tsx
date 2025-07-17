@@ -17,12 +17,10 @@ const ThemeImage = (props: Props) => {
 };
 
 
-
-
 export default function Home() {
   return (
       <div>
-        홈 페이지
+       metalogos 홈 페이지
       </div>
   );
 }
